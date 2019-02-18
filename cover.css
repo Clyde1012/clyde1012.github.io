@@ -1,0 +1,9 @@
+.container{
+    left: 50%;
+    padding-top: 100;
+    padding-left: 250;
+}
+.name{
+    background-color: black;
+    color: black;
+}
